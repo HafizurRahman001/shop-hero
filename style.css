@@ -1,0 +1,118 @@
+.nav_section {
+    background-color: #1A187A;
+}
+
+.nav_img {
+    width: 165px;
+}
+
+.nav_content li a {
+    color: white;
+}
+
+.nav_content li a:hover {
+    color: lime;
+}
+
+.cart_icon {
+    color: white;
+    font-size: 24px;
+    padding-left: 24px;
+}
+
+.hero_img {
+    width: 400px;
+    background-size: cover;
+}
+
+.hero_img_section {
+    /* background: rgb(245, 172, 247); */
+    background: linear-gradient(90deg, rgba(245, 172, 247, 1) 0%, rgba(174, 180, 249, 1) 50%, rgba(0, 22, 255, 1) 100%);
+    /* height: 100vh; */
+
+}
+
+.apple_airpod {
+    background-image: url("./resources/airpod.jpg");
+    background-size: cover;
+}
+
+.airpod_content {
+    color: white;
+}
+
+
+.gadget_section {
+    background-color: rgb(241, 241, 241);
+}
+
+.arrow_logo i {
+    font-size: 27px;
+    cursor: pointer;
+}
+
+.phones,
+.smartwatches,
+.cameras,
+.earphones,
+.computers,
+.gamings {
+    background-color: rgb(232, 232, 232);
+    cursor: pointer;
+}
+
+.phones i,
+.smartwatches i,
+.cameras i,
+.earphones i,
+.computers i,
+.gamings i {
+    font-size: 30px;
+}
+
+.arrival_category_content span {
+    padding-right: 12px;
+    color: gray;
+}
+
+.arrival_category_content span:hover {
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.elaven_sale {
+    background-color: #958ad4;
+}
+
+.elaven_sales_img {
+    width: 230px;
+}
+
+.footer_section {
+    background-color: #0e071b;
+}
+
+.social_logo i {
+    font-size: 23px;
+    padding-right: 15px;
+    color: white;
+}
+
+.social_logo i:hover {
+    color: tomato;
+}
+
+.footer_content li:hover {
+    font-style: italic;
+    cursor: pointer;
+}
+
+.add_favourite i:hover {
+    color: red;
+
+}
+
+.card_section {
+    background-color: rgb(232, 232, 232);
+}
